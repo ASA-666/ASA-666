@@ -1,10 +1,4 @@
-## Hi there 👋
-
-#include <stdio.h>
-int main() {
-    printf("Hello there, fellow code nerd!\n");
-    return 0;
-}
+## Hello there, fellow code nerd!
 
 ****
 - 🔭 I’m currently studying Networking and Cybersecurity
