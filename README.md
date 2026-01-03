@@ -3,7 +3,7 @@ $ whoami
 ASA-666
 ```
 
-# Hello, You've reached Ascasis Syrius Alexandar 6 6 6 (ASA-666)
+# Hello, You've reached Ascasis Syrius Alexandar [0110 0110 0110]
 
 ```text
 [ networking | cybersecurity | javascript | mern ]
