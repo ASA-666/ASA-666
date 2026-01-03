@@ -1,8 +1,27 @@
-## Hello there, fellow code nerd!
+```bash
+$ whoami
+ASA-666
+```
 
-****
-- 🔭 I’m currently studying Networking and Cybersecurity
-- 🌱 I’m currently learning Python
-- 👨‍💻 I’m looking to work on Machine Learning for Cybersecurity
-- 📫 How to reach me: [REDACTED]
-- 😄 Pronouns: he/him
+# Hello, You've reached Ascasis Syrius Alexandar 6 6 6 (ASA-666)
+
+```text
+[ networking | cybersecurity | javascript | mern ]
+```
+
+---
+
+```bash
+$ cat about_me.txt
+```
+
+```text
+I’m a networking and cybersecurity student focused on networking and cybersecurity.
+
+I like learning how systems work, how they break,
+and how to defend them.
+
+Currently learning JavaScript and building projects
+using the MERN stack, with an interest in writing
+secure and well-structured web applications.
+```
